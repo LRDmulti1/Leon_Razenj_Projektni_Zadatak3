@@ -1,0 +1,1 @@
+Za izradu videozapisa sam koristio program KDENLIVE, jedan od alata koji mi je omogućio astetiku analognog prikaza je "ntscQT" (https://0hz.ru/ntscqt/)
